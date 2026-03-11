@@ -1,0 +1,14 @@
+{
+  "name": "pixel-agents-standalone",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "bun run server.ts"
+  },
+  "dependencies": {
+    "pngjs": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.13"
+  }
+}
